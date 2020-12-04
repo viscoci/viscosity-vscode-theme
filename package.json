@@ -1,0 +1,21 @@
+{
+    "name": "viscosity",
+    "displayName": "Viscosity",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Viscosity VS Code Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Viscosity VS Code Theme-color-theme.json"
+            }
+        ]
+    }
+}
